@@ -1,9 +1,46 @@
 {
-    "projects": [],
-    "categories": [
-        { "id": 1, "name": "Infra"},
-        { "id": 2, "name": "Desenvolvimento"},
-        { "id": 3, "name": "Design"},
-        { "id": 4, "name": "Planejamento" }
-    ]
+  "projects": [
+    {
+      "name": "Vitor Manoel",
+      "budget": "3",
+      "category_id": "1",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Vitor Manoel Santana de Oliveira",
+      "budget": "8",
+      "category_id": "2",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "vitor",
+      "budget": "6",
+      "category_id": "4",
+      "cost": 0,
+      "services": [],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
 }
