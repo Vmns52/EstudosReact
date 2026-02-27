@@ -1,28 +1,15 @@
 {
   "projects": [
     {
-      "name": "Vitor Manoel",
-      "budget": "3",
-      "category_id": "1",
+      "name": "Pagina web",
+      "budget": "15000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
       "cost": 0,
       "services": [],
       "id": 1
-    },
-    {
-      "name": "Vitor Manoel Santana de Oliveira",
-      "budget": "8",
-      "category_id": "2",
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "vitor",
-      "budget": "6",
-      "category_id": "4",
-      "cost": 0,
-      "services": [],
-      "id": 3
     }
   ],
   "categories": [
